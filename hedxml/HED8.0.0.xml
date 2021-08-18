@@ -16,7 +16,7 @@
             <attribute>
                <name>suggestedTag</name>
                <value>Task-event-role</value>
-               <value>Attribute/Sensory</value>
+               <value>Sensory-attribute</value>
             </attribute>
          </node>
          <node>
@@ -1021,7 +1021,7 @@
             <description>An entity related to a systematic means of communicating by the use of sounds, symbols, or gestures.</description>
             <attribute>
                <name>suggestedTag</name>
-               <value>Attribute/Sensory</value>
+               <value>Sensory-attribute</value>
             </attribute>
             <node>
                <name>Character</name>
@@ -1073,7 +1073,7 @@
             <description>Something perceptible by one or more of the senses, especially by vision or touch. A material thing.</description>
             <attribute>
                <name>suggestedTag</name>
-               <value>Attribute/Sensory</value>
+               <value>Sensory-attribute</value>
             </attribute>
             <node>
                <name>Geometric-object</name>
